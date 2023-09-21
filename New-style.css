@@ -1,0 +1,47 @@
+section{
+    padding: 4vw 0px;
+}
+header{
+    background-image: url(Trinity/bge.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 700px;
+}
+
+@media screen and (max-width: 670px){
+    header{
+        min-height: 300px;
+    }
+
+}
+.banner-title {
+    position: relative;
+    top: 40px;
+}
+.all{
+    border-radius: 36px;
+}
+body{
+background-color: black;
+overflow-x: hidden;
+}
+.container-dwn {
+margin-bottom: 30px;
+}
+.what {
+margin: 20px 0;
+}
+.title-supp {
+margin-bottom: 50px;
+}
+.chat {
+margin: 20px 0px;
+border-radius: 36px;
+
+}
+.pre {
+border-radius: 36px;
+}
+.op {
+margin: 10px;
+}
